@@ -1,0 +1,22 @@
+[Script Info]
+Title: History Demo Subtitles
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,32,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,120,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:10.48,Default,,0,0,0,,公元前230年秦始皇发动了统一六国的战争。秦军兵锋\N直指东方，一场改变中国历史进程的大决战即将上演。
+Dialogue: 0,0:00:10.73,0:00:20.11,Default,,0,0,0,,第一个目标是韩国。韩国是七国中最弱小的，地处中原四\N战之地。秦军南下势如破竹，韩国灭亡。
+Dialogue: 0,0:00:20.36,0:00:30.96,Default,,0,0,0,,公元前228年秦军北上进攻赵国。赵国名将李牧率军顽\N强抵抗，但最终被秦将王翦击败。赵国灭亡。
+Dialogue: 0,0:00:31.21,0:00:39.86,Default,,0,0,0,,公元前225年秦军挥师进攻魏国。魏国都城大梁被秦军\N引水淹没。魏国灭亡。
+Dialogue: 0,0:00:40.11,0:00:50.90,Default,,0,0,0,,公元前224年秦军南下进攻楚国。楚国是南方大国但朝\N政腐败。秦将王翦率六十万大军南下，楚国灭亡。
+Dialogue: 0,0:00:51.15,0:01:01.36,Default,,0,0,0,,公元前222年秦军东进进攻燕国。燕国太子丹曾派荆轲\N刺杀秦王。燕王喜逃往辽东，燕国灭亡。
+Dialogue: 0,0:01:01.61,0:01:10.00,Default,,0,0,0,,公元前221年秦军东进灭亡齐国。齐国不战而降。六国\N全部覆灭，天下统一。
+Dialogue: 0,0:01:10.25,0:01:20.08,Default,,0,0,0,,秦始皇建立了中国历史上第一个大一统王朝，就是秦朝。\N书同文车同轨，统一度量衡，开创了两千多年的帝国时代\N。
