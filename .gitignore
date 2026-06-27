@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+output/work/
+output/*.mp4
+output/*.wav
+*.png
+test_*.py
